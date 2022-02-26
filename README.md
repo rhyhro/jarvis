@@ -1,6 +1,6 @@
 # jarvis
 
-Steps:
-Install Nord vpn(https://nordvpn.com/download/linux/)
-Login in Nord vpn
-Run script
+Steps:<br/>
+Install Nord vpn(https://nordvpn.com/download/linux/)<br/>
+Login in Nord vpn<br/>
+Run script<br/>
